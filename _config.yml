@@ -2,3 +2,7 @@ title: My Portfolio
 name: Alexandra Adeogun
 email: w0779297@myscc.ca
 baseurl: "/portfolio-site"
+
+collections: 
+	design:
+		output: true
