@@ -4,5 +4,5 @@ email: w0779297@myscc.ca
 baseurl: "/portfolio-site"
 
 collections: 
-	design:
-	output: true
+design:
+output: true
