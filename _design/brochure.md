@@ -1,5 +1,5 @@
 ---
-title: "Brochure Design"
+title: "Project 1"
 tools: [Photoshop, InDesign]
 description: "An in-class project."
 layout: 
