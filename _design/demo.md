@@ -1,7 +1,7 @@
 ---
 title: "Project 2"
-tools: [github, html]
-description: "demo for markdown"
+tools: [Photoshop, InDesign]
+description: "An in-class project."
 layout: 
 permalink: 
 ---
